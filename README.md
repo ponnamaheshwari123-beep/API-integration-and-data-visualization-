@@ -11,6 +11,7 @@ DOMAIN:PYTHON PROGRAMMING
 DURATION 4 WEEKS
 
 MENTOR:NEELA SANTOSH
+
 API Integration and Data Visualization – Project Description
 
 DISCRIPTION :The project “API Integration and Data Visualization” demonstrates how real-time data can be collected from online services using APIs and presented visually using Python programming. APIs (Application Programming Interfaces) are tools that allow different software applications to communicate and exchange information. In modern software development, APIs are widely used to access live data such as weather updates, stock prices, social media information, and business analytics. This project helps in understanding how APIs work and how retrieved data can be analyzed and visualized effectively.
@@ -31,3 +32,7 @@ Matplotlib / Seaborn – For graphical visualization
 This project has many real-world applications. It can be used in weather monitoring systems, stock market analysis, business dashboards, real-time analytics systems, healthcare monitoring, and IoT applications. Many organizations use APIs and visualization tools to monitor live data and generate useful insights.
 
 In conclusion, the “API Integration and Data Visualization” project explains how Python can be used to fetch, process, and visualize real-time data from APIs. It is an important concept in modern technology because visual representation of live data helps users understand information quickly and make better decisions.
+
+OUTPUT:
+
+<img width="915" height="289" alt="Image" src="https://github.com/user-attachments/assets/14b09910-b8fa-4ce4-84e4-352c796829cb" />
